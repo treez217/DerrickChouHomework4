@@ -1,0 +1,91 @@
+#LeftColumn {
+	line-height: 60px;
+	background-color: #eeeeee;
+/*	
+	height: 400px;
+	width: 125px;
+	float: right;
+	padding: 5px;
+	position: fixed;
+}
+
+#RightColumn {
+	float: right;
+}
+
+/*
+.columnleft {
+	float: left; width: 33%
+}
+
+.columnright {
+	float: right; width: 33%;
+}
+
+.columncenter {
+	display: inline-block; width: 33%;
+}
+
+
+/*
+h1 {
+	font-size: 60px; 
+	color: green;
+	background-color: red;
+}
+
+#Hyperlinks {
+	width: 125px;
+	height: 40px;
+	color: orange;
+	border-color: white;
+	background-color: black; 
+}
+
+.topsection {
+	font-family: courier;
+	color: red;
+	font-size: 20px;
+}
+
+.businesshours {
+	color: white;
+	background-color: black;
+}
+
+.bottomsection {
+	font-family: serif;
+	color: blue;
+	font-size: 30px
+}
+
+/*
+.sample {
+	color: blue;
+}
+
+#subtitle {
+	color: green;
+}
+
+div {
+	color: orange;
+	background-color: black;
+	text-align: center;
+}
+/*
+.events {
+	color: orange;
+	background-color: green;
+	text-align: left;
+}
+*/
+
+/**
+#event {color: white;
+		background-color: red;
+		padding: 10px;
+		margin-left: 100px;
+
+
+}
