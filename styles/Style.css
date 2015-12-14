@@ -1,3 +1,52 @@
+.navheader {
+	background-color: cornsilk;
+	list-style-type: none;
+	padding: 20px;
+	width: 60px;
+	color: black; 
+	border: 1px solid black;
+}
+
+li {
+	display: inline-block;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+.column1 {
+	width: 300px;
+	float: left;
+	height: 50px;
+	background-color: lavender;
+}
+
+.column2 {
+	width: 66%;
+	float: left;
+	height: 50px;
+	background-color: gray;
+}
+
+
+/*
+.column1 {
+	box-sizing: border-box;
+	height: 25px;
+	width: 25%;
+	background-color: #F0F0F0;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+.column2 {
+	box-sizing: border-box;
+
+}
+
+
 #LeftColumn {
 	line-height: 60px;
 	background-color: #eeeeee;
