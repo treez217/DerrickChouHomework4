@@ -1,140 +1,69 @@
+
 .navheader {
 	background-color: cornsilk;
 	list-style-type: none;
-	padding: 20px;
-	width: 60px;
+	width: 100px;
 	color: black; 
-	border: 1px solid black;
+	border-style: outset;
+	text-decoration: none;
 }
 
 li {
 	display: inline-block;
 }
 
-a {
-	text-decoration: none;
+body {
+	background-color: lightblue;
 }
 
+h1 	{
+	color: navy;
+	margin-left: 35px;
+}
+
+div	{
+	overflow: auto;
+}
+
+p	{
+	padding-left: 35px;
+	padding-right: 35px;
+}	
+
+.image1 {
+	float: right;
+	clear: right;
+	padding-left: 35px;
+	padding-right: 35px;
+
+}	
+
+.image2 {
+	float: left;
+	clear: left;
+	padding-left: 35px;
+	padding-right: 35px;
+
+}
+
+a:link {
+    text-decoration: none;
+}
 
 .column1 {
-	width: 300px;
-	float: left;
-	height: 50px;
-	background-color: lavender;
-}
-
-.column2 {
-	width: 66%;
-	float: left;
-	height: 50px;
-	background-color: gray;
-}
-
-
-/*
-.column1 {
-	box-sizing: border-box;
-	height: 25px;
 	width: 25%;
-	background-color: #F0F0F0;
-	border: 1px solid black;
-	padding: 20px;
+	float: left;
+	clear: left;
+	margin-left: 35px;
+	padding-left: 5px;
+	background-color: lavender;
+
 }
 
 .column2 {
-	box-sizing: border-box;
-
+	width: 60%;
+	float: left;
+	background-color: gray;
+	margin-right: 35px;
 }
 
-
-#LeftColumn {
-	line-height: 60px;
-	background-color: #eeeeee;
-/*	
-	height: 400px;
-	width: 125px;
-	float: right;
-	padding: 5px;
-	position: fixed;
-}
-
-#RightColumn {
-	float: right;
-}
-
-/*
-.columnleft {
-	float: left; width: 33%
-}
-
-.columnright {
-	float: right; width: 33%;
-}
-
-.columncenter {
-	display: inline-block; width: 33%;
-}
-
-
-/*
-h1 {
-	font-size: 60px; 
-	color: green;
-	background-color: red;
-}
-
-#Hyperlinks {
-	width: 125px;
-	height: 40px;
-	color: orange;
-	border-color: white;
-	background-color: black; 
-}
-
-.topsection {
-	font-family: courier;
-	color: red;
-	font-size: 20px;
-}
-
-.businesshours {
-	color: white;
-	background-color: black;
-}
-
-.bottomsection {
-	font-family: serif;
-	color: blue;
-	font-size: 30px
-}
-
-/*
-.sample {
-	color: blue;
-}
-
-#subtitle {
-	color: green;
-}
-
-div {
-	color: orange;
-	background-color: black;
-	text-align: center;
-}
-/*
-.events {
-	color: orange;
-	background-color: green;
-	text-align: left;
-}
-*/
-
-/**
-#event {color: white;
-		background-color: red;
-		padding: 10px;
-		margin-left: 100px;
-
-
-}
